@@ -7,6 +7,9 @@ I like working with [Miniconda](https://docs.anaconda.com/free/miniconda/) and [
 
 ### 1. Follow the [Miniconda installation guide](https://docs.anaconda.com/miniconda/miniconda-install)
 
+...then do the follow:
+
+
 ```bash
 conda deactivate
 conda create --your_env_name python=3.9
